@@ -1,0 +1,57 @@
+*{margin: 0; padding: 0;}
+
+body{
+    background-image: url(../img/Screenshot\ 2022-03-17\ 201421.jpg);
+    height: -500vh;
+    background-size: cover;
+}
+
+.logo{
+    height: 50px;
+    margin-left: 7px;
+    margin-top: px;
+}
+
+.conb{
+    display: block;
+    width: 200px;
+    height: 25px;
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(53, 94, 228);
+    color: white;
+    border: 0;
+    border-radius: 5px;
+    margin-top: 182px;
+    margin-left: 800px;
+    box-shadow: 2px 2px lightgray;
+    text-align: center;
+    text-decoration: none;
+}
+
+.conb1{
+    display: block;
+    width: 200px;
+    height: 25px;
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(53, 94, 228);
+    color: white;
+    border: 0;
+    border-radius: 5px;
+    margin-top: -20px;
+    margin-left: 500px;
+    box-shadow: 2px 2px lightgray;
+    text-align: center;
+    text-decoration: none;
+}.vid{
+    margin-left: -75px;
+    padding-bottom: 50px;
+    margin-top: 10px;
+}
+
+.bt{
+ text-decoration:none;
+ color: white;
+ margin-left: 8px;
+}
